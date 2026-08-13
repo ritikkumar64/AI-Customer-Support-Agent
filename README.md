@@ -4,6 +4,14 @@ A fully functional, production-ready web application featuring an **AI Customer 
 
 ---
 
+## 📹 Loom Demo Video Presentation
+
+[![Loom Video Walkthrough](https://img.shields.io/badge/Loom-Watch_Demo_Video-625DF5?style=for-the-badge&logo=loom&logoColor=white)](YOUR_LOOM_LINK_HERE)
+
+> 📌 **Loom Video Link:** [Click here to watch the Loom Walkthrough](YOUR_LOOM_LINK_HERE)
+
+---
+
 ## 🌟 Key Features & Highlights
 
 - 🤖 **Autonomous Multi-Step Agent Loop**: Formulates reasoning thoughts, dynamically calls tools, evaluates rule constraints, and executes refund actions.
@@ -106,8 +114,8 @@ Use this script structure for your video walkthrough submission:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/ai-refund-agent.git
-   cd ai-refund-agent
+   git clone https://github.com/ritikkumar64/AI-Customer-Support-Agent.git
+   cd AI-Customer-Support-Agent
    ```
 
 2. **Install dependencies**:
